@@ -1,0 +1,57 @@
+{
+  "personal": {
+    "name": "Aryan Sharma",
+    "email": "s44810335@email.com",
+    "phone": "+91-7701891454",
+    "location": "Delhi NCR",
+    "linkedin": "www.linkedin.com/in/aryan-sharma-05a405413",
+    "github": "https://github.com/s44810335-hue",
+    "portfolio": ""
+  },
+  "preferences": {
+    "roles": ["Backend Developer", "Python Developer"],
+    "locations": ["Delhi","jaipur","Gurgaon", "Noida", "Remote"],
+    "salary_min_lpa": "7-20",
+    "work_mode": ["remote", "hybrid", "onsite"],
+    "notice_period_days": 15,
+    "experience_years": "fresher",
+    "avoid_keywords": ["sales", "night shift", "BPO"]
+  },
+  "experience": [
+    {
+      "company": "kineterxa pvt ltd ",
+      "role": "python developer",
+      "start": "July 2026",
+      "end": "august 2026",
+      "bullets": [
+        "bulding manufacturing quality control system using python and django",
+        "ai job scheduling system using python and django"
+      ],
+      "skills_used": ["Python", "Django", "PostgreSQL"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech electronics and communication engineering",
+      "institution": "dr.apj abdul kalam technical university",
+      "year": "2027",
+      "grade": "6.1 CGPA"
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "SQL"],
+    "frameworks": ["Django", "FastAPI"],
+    "tools": ["Git", "Docker"],
+    "databases": ["PostgreSQL", "MySQL"],
+    "cloud": ["AWS"]
+  },
+  "projects": [
+    {
+      "name": "quality control system",
+      "description": "A manufacturing quality control system built using Python and Django, designed to streamline the inspection process and ensure product quality.",
+      "tech_used": ["Python", "Django"],
+      "link": "https://github.com/Aryaa1704/DHAAGA--E--COMMERCE"
+    }
+  ],
+  "certifications": ["amazon aws certified solutions architect - associate", "google cloud certified - professional cloud architect", "microsoft azure fundamentals"]
+}
