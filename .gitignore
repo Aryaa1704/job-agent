@@ -1,0 +1,28 @@
+# Environment
+.env
+.env.local
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data/jobs.db
+data/question_memory.json
+data/resumes/*.pdf
+data/resumes/*.docx
+
+# OS
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Streamlit
+.streamlit/
+
+# Credentials
+config.py
